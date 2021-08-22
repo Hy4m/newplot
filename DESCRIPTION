@@ -1,0 +1,23 @@
+Package: newplot
+Type: Package
+Title: Tools for Adding Graphical Annotations Simply
+Version: 0.1.2
+Author: Houyun Huang <houyunhuang@163.com>
+Maintainer: Houyun Huang <houyunhuang@163.com>
+Description: Provides a set of functions that make it easy to add graphical
+    annotations using 'ggplot2', and the idea for this package was inspired by
+    the 'aplot' package by Yu Guangchuang.
+License: GPL-2
+URL: https://github.com/Hy4m/newplot
+BugReports: https://github.com/Hy4m/newplot/issues
+LazyData: TRUE
+Encoding: UTF-8
+Depends: R (>= 3.5)
+Imports:
+    aplot,
+    ggplot2,
+    ggplotify,
+    grid,
+    patchwork,
+    utils
+RoxygenNote: 7.1.1
