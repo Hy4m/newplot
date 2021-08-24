@@ -5,12 +5,14 @@
 \alias{theme_no_x}
 \title{Theme}
 \usage{
-theme_no_y(...)
+theme_no_y(..., plot.margin = margin())
 
-theme_no_x(...)
+theme_no_x(..., plot.margin = margin())
 }
 \arguments{
 \item{...}{other parameters passing to \code{theme()}.}
+
+\item{plot.margin}{the margin of plot.}
 }
 \value{
 a theme object.
