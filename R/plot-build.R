@@ -1,4 +1,4 @@
-### This part of the code is implemented by referring to the plot_list()
+### The code below is implemented by referring to the plot_list()
 ### function in aplot package.
 ### URL:https://github.com/YuLab-SMU/aplot/blob/master/R/plot-list.R
 

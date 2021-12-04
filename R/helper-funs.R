@@ -1,5 +1,5 @@
 #' @title Helper Functions
-#' @description A wrapper of \code{new_ggplot()} and \code{new_plot()}.
+#' @description A wrapper of \code{new_ggplot()} and \code{new_plot()} function.
 #' @param ... other parameters.
 #' @return a modified gg object.
 #' @rdname helper_funs
