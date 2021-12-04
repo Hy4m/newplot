@@ -10,7 +10,7 @@
 #' @importFrom patchwork plot_spacer
 #' @importFrom patchwork plot_layout
 #' @references Guangchuang Yu (2020). aplot: Decorate a 'ggplot' with Associated
-#' Information. R package version 0.0.6.https://CRAN.R-project.org/package=aplot
+#' Information. R package version 0.0.6.https://CRAN.R-project.org/package=aplot.
 cpx_ggplot_build <- function(plot) {
   UseMethod("cpx_ggplot_build")
 }
